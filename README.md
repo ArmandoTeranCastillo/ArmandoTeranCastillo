@@ -10,6 +10,6 @@
 * Three months from home office 
 
 ## Habilities:
-* Database development ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+* Database development 
 * APIs development
 * Client-side applications development
