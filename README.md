@@ -1,5 +1,5 @@
 # Full-Stack Web Developer 
-### ![Angular](https://img.icons8.com/color/110/null/angularjs.png) ![Bootstrap](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-bootstrap-a-free-and-open-source-css-framework-logo-shadow-tal-revivo.png)
+#### ![Angular](https://static-00.iconduck.com/assets.00/angular-icon-256x256-8ljgbnzq.png) ![NET](https://styles.redditmedia.com/t5_2qh3h/styles/communityIcon_s4j823izlmu91.png) ![Bootstrap](https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png) ![Dev](https://devexpress.gallerycdn.vsassets.io/extensions/devexpress/devextrememobileappframework/22.2/1670592218445/Microsoft.VisualStudio.Services.Icons.Default) ![Django](https://cdn.iconscout.com/icon/free/png-256/djangoproject-2752208-2285025.png) ![Laravel](https://static-00.iconduck.com/assets.00/laravel-icon-256x256-mzyhuzqy.png)
 
 <!--
 **ArmandoTeranCastillo/ArmandoTeranCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
