@@ -5,8 +5,8 @@
 **ArmandoTeranCastillo/ArmandoTeranCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-# Experience:
-* Six months in person
+# Experience (1 year):
+* Nine months in person
 * Three months from home office 
 
 # Habilities:
