@@ -5,7 +5,14 @@
 **ArmandoTeranCastillo/ArmandoTeranCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-# Experience (3 years) 
+# Experience (3 years)
+
+# Technologies
+* .NET Core
+* .NET Framework
+* WPF
+* Winforms
+* Blazor
 
 # Habilities:
 * Back-end development focused on performance and business logic.
