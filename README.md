@@ -1,7 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQG6CiUHRZ8ffQ/profile-displaybackgroundimage-shrink_350_1400/B4EZoNGGNEHcAY-/0/1761156317848?e=1762992000&v=beta&t=I-9AbzGaVGNvjfDBrMAuyORV8QLDYOya7x3l1M5HIY4)
 
 # .NET Developer (with 3 years of Experience) 
-<img src="https://styles.redditmedia.com/t5_2qh3h/styles/communityIcon_s4j823izlmu91.png" alt=".NET" width="150" height="150"/> <img src="https://devexpress.gallerycdn.vsassets.io/extensions/devexpress/devextrememobileappframework/22.2/1670592218445/Microsoft.VisualStudio.Services.Icons.Default" alt="DevExpress" width="110" height="110"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JOt73rdEpKk8nUuU_wPhHAhCXQiT0sPMHA&s](https://miro.medium.com/1*mC09uItKCOwFFzHwh4RMqg.jpeg" alt="WPF" width="150" height="150"/>
+<img src="https://styles.redditmedia.com/t5_2qh3h/styles/communityIcon_s4j823izlmu91.png" alt=".NET" width="110" height="110"/> <img src="https://devexpress.gallerycdn.vsassets.io/extensions/devexpress/devextrememobileappframework/22.2/1670592218445/Microsoft.VisualStudio.Services.Icons.Default" alt="DevExpress" width="110" height="110"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JOt73rdEpKk8nUuU_wPhHAhCXQiT0sPMHA&s](https://miro.medium.com/1*mC09uItKCOwFFzHwh4RMqg.jpeg" alt="WPF" width="150" height="150"/>
 
 <!--
 **ArmandoTeranCastillo/ArmandoTeranCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
